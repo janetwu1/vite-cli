@@ -49,16 +49,5 @@ Vite实现原理
   - jsx
   - Web Assembly
 
-```
-npm i @vue/compiler-sfc
-```
 
-
-
-
-
-```
-shared:387 Uncaught ReferenceError: process is not defined
-    at shared:387
-```
 
